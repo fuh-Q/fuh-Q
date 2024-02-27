@@ -19,5 +19,8 @@
         }
       </style>
     </div>
+    <script>
+      console.log("lmfao");
+    </script>
   </foreignObject>
 </svg>
